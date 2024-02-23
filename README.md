@@ -18,7 +18,7 @@ Platform layer for multithreading, dynamic library loading, directory traversal,
 
 ### Betray
 
-Extencive platform layer that lets you open windows, read input and connect to mics and spekers. Betray has an extencive plugin system that makes all applications written for betrya support hardwars such as 3D Sond Sterioscopics, multi-touch, Color Correction, Motion sencors, Headmounted displays and more
+Extensive platform layer that lets you open windows, read input and connect to mics and speakers. Betray has an extensive plugin system that makes all applications written for betray support hardwars such as [3D sound stereoscopics](https://en.wikipedia.org/wiki/3D_audio_effect), multi-touch, [color correction](https://en.wikipedia.org/wiki/Color_grading#Hardware), motion sensors, headmounted displays and more.
 
 ### Relinquish
 
